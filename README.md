@@ -1,5 +1,8 @@
 # Sortr - macOS File Organiser
 
+## Screenshots
+![sortr](https://github.com/yunus04254/sortr/assets/146735322/c382fcd7-7336-428d-97e4-dd6a60143f6b)
+
 ## Description
 Sortr is a Python-based macOS menu bar application that essentially runs in background while organising files within a directory based on their types, such as audio, video, images, and others. It provides an easy-to-use interface with the ability to set a sorting interval and run the sorting process.
 
